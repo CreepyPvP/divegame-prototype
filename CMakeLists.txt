@@ -27,6 +27,7 @@ IF (WIN32)
 
     file(GLOB_RECURSE SOURCE_FILES 
         ${CMAKE_SOURCE_DIR}/src/*.cpp
+        ${CMAKE_SOURCE_DIR}/platform/windows.cpp
     )
 ELSE()
     # Linux libraries:
