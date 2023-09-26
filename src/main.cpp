@@ -1,5 +1,5 @@
-#include <stdio.h>
+#include "platform.hpp"
 
 int main() {
-    printf("hello world\n");
+    helloWorld();
 }

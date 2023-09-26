@@ -1,1 +1,1 @@
-# Opengl project template
+# Divegame prototype
